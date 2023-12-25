@@ -1,4 +1,4 @@
-# test_vue
+# tainan_attractions
 
 ## Project setup
 ```
